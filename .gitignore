@@ -261,4 +261,4 @@ __pycache__/
 *.pyc
 
 # OpenCV Property Sheet
-./LineTracker/OpenCV.props
+LineTracker/OpenCV.props
